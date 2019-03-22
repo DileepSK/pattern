@@ -10,4 +10,6 @@ pattern(n)
       
 done      
 
-       
+      
+thank you:)      
+kkk
