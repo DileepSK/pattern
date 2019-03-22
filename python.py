@@ -1,7 +1,7 @@
 pattern printing program
 def pattern(n)
-   for i in range(50):
-	 print(' ' *(50-i),end =" ")
+   for i in range(n):
+	 print(' ' *(n-i),end =" ")
 	 print('*'*(i+1),end="")
 	 print('*'*i)
 
